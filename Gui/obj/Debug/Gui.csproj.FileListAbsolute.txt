@@ -1,0 +1,14 @@
+C:\Users\SBaghel\documents\visual studio 2017\Projects\Gui\Gui\Gui\bin\Debug\Gui.dll
+C:\Users\SBaghel\documents\visual studio 2017\Projects\Gui\Gui\Gui\bin\Debug\Gui.pdb
+C:\Users\SBaghel\documents\visual studio 2017\Projects\Gui\Gui\Gui\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\SBaghel\documents\visual studio 2017\Projects\Gui\Gui\Gui\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\SBaghel\documents\visual studio 2017\Projects\Gui\Gui\Gui\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\SBaghel\documents\visual studio 2017\Projects\Gui\Gui\Gui\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\SBaghel\documents\visual studio 2017\Projects\Gui\Gui\Gui\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\SBaghel\documents\visual studio 2017\Projects\Gui\Gui\Gui\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\SBaghel\documents\visual studio 2017\Projects\Gui\Gui\Gui\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\SBaghel\documents\visual studio 2017\Projects\Gui\Gui\Gui\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\SBaghel\documents\visual studio 2017\Projects\Gui\Gui\Gui\obj\Debug\Gui.App.xaml.g.cs
+C:\Users\SBaghel\documents\visual studio 2017\Projects\Gui\Gui\Gui\obj\Debug\Gui.dll
+C:\Users\SBaghel\documents\visual studio 2017\Projects\Gui\Gui\Gui\obj\Debug\Gui.pdb
+C:\Users\SBaghel\Documents\Visual Studio 2017\Projects\Gui\Gui\Gui\obj\Debug\Gui.csprojResolveAssemblyReference.cache
